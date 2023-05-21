@@ -12,7 +12,7 @@ sudo apt update -y
 sudo apt-get install apt-transport-https ca-certificates curl gnupg -y
 
 #install docker
-wget https://download.docker.com/linux/debian/gpg
+sudo wget https://download.docker.com/linux/debian/gpg
 sudo apt-key add gpg
 echo "deb [arch=amd64] https://download.docker.com/linux/debian $(lsb_release -cs) stable" | sudo tee -a /etc/apt/soruces.list.d/docker.list 
 
