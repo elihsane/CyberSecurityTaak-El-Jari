@@ -132,36 +132,32 @@
 
 * create VM:
 
-        VBoxManage createvm --name CyberSecTaakDebian --ostype Debian_64 --register
+        VBoxManage createvm --name DebianTaak --ostype Debian_64 --register
 
 * info about VM:
 
-        VBoxManage showvminfo CyberSecTaakDebian 
+        VBoxManage showvminfo DebianTaak 
 
 * configure VM:
 
-        VBoxManage modifyvm CyberSecTaakDebian --cpus 2 --memory 2048 --vram 12
-
-* grep memory info:
-
-        VBoxManage showvminfo CyberSecTaakDebian | grep "Memory size"
+        VBoxManage modifyvm DebianTaak --cpus 2 --memory 2048 --vram 12
 
 * network setting:
 
-        VBoxManage modifyvm CyberSecTaakDebian --nic1 bridged --brideadapter1 eth0
+        VBoxManage modifyvm DebianTaak --nic1 nat
 
-* create hd vdi:
+* create medium vdi:
 
-        VBoxManage createhd --filename /C:/Users/User/Virtualbox VMs/CyberSecTaakDebian/CyberSecTaakDebian.vdi --size 5120 --variant Standard
+        VBoxManage createmedium disk --filename "/C:/Users/User/Virtualbox VMs/DebianTaak/DebianTaak" --size 5120 --format VDI
 
 * stockage controller:
 
-        VBoxManage storagectl CyberSecTaakDebian --name "IDE Controller" --add ide --bootable on
+        VBoxManage storagectl DebianTaak --name "SATA Controller" --add sata --controller IntelAHCI
 
-* atache disk to controller:
+* atach disk to controller:
 
-        VBoxManage storageattach CyberSecTaakDebian --storagectl "IDE Controller" --port 0 --device 0 --type dvddrive --medium C:\Users\User\VirtualBox VMs\Debian_Server_Cyber_Taak\Debian 11 (64bit)
+        VBoxManage storageattach DebianTaak --storagectl "ATA Controller" --port 0 --device 0 --type hdd --medium "C:\VDI Files VMs\Debian11(64bit).vdi"
 
-* start vm:
+* start vm with gui:
 
-        VBoxManage startvm CyberSecTaakDebian
+        VBoxManage startvm DebianTaak --type gui
