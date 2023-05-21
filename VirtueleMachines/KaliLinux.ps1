@@ -23,7 +23,7 @@ VBoxManage modifyvm $VM_NAME --cpus 2
 
 # Network adapters
 VBoxManage modifyvm $VM_NAME --nic1 nat
-VBoxManage modifyvm $VM_NAME --nic2 intnet
+VBoxManage modifyvm $VM_NAME --nic2 bridged
 
 # start vm (met gui)
 VBoxManage startvm $VM_NAME --type gui
