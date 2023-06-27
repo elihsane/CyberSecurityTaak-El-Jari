@@ -4,24 +4,24 @@
 
 * Départ 04:00 de Manage
 
-| Départ    | Lieu                      |   Terminal    | Vol    | Companie  | bagages               |
-| :-------: | :-----------------------: | :-----------: | :----: | :-------: | :-------------------: |
-| 09:35     | Paris Charles De Gaulle   | 1             | LH1027 | Lufthansa | 23kg & 8kg (55x40x23) |
-| 22:15     | Frankfurt                 | 1             | LH576  | Lufthansa | 23kg & 8kg (55x40x23) |
+  | Départ    | Lieu                      |   Terminal    | Vol    | Companie  | bagages               |
+  | :-------: | :-----------------------: | :-----------: | :----: | :-------: | :-------------------: |
+  | 09:35     | Paris Charles De Gaulle   | 1             | LH1027 | Lufthansa | 23kg & 8kg (55x40x23) |
+  | 22:15     | Frankfurt                 | 1             | LH576  | Lufthansa | 23kg & 8kg (55x40x23) |
 
-**ATTENTION VOL INTERNE 20kg et 7kg**
+  **ATTENTION VOL INTERNE 20kg et 7kg**
 
 ## lundi 3 juillet
 
 * Arrivée 09:55 Cape Town
 
-| Départ    | Lieu                      |   Arrivée     | Lieu          | Vol    | Companie  | bagages               |
-| :-------: | :-----------------------: | :-----------: | :-----------: | :----: | :-------: | :-------------------: |
-| 11:50     | Cape Town                 | 13:55         | Johannesbourg | FA 110 | Flysafair | 20kg & 7kg            |
+  | Départ    | Lieu                      |   Arrivée     | Lieu          | Vol    | Companie  | bagages               |
+  | :-------: | :-----------------------: | :-----------: | :-----------: | :----: | :-------: | :-------------------: |
+  | 11:50     | Cape Town                 | 13:55         | Johannesbourg | FA 110 | Flysafair | 20kg & 7kg            |
 
-| Heure rdv    | Lieu                      | Companie  | Important                                     |
-| :----------: | :-----------------------: | :-------: | :-------------------------------------------: |
-| 14:45        | Johannesbourg             | Avis      | **NE PAS MENTIONNER LES HEURES DE NOS VOLS!** |
+  | Heure rdv    | Lieu                      | Companie  | Important                                     |
+  | :----------: | :-----------------------: | :-------: | :-------------------------------------------: |
+  | 14:45        | Johannesbourg             | Avis      | **NE PAS MENTIONNER LES HEURES DE NOS VOLS!** |
 
 * Direction Pezulu Tree House (+-6h) | Guernsey Private Nature Reserve, Guernsey Rd, Hoedspruit, 1380, Afrique du Sud
 
@@ -41,13 +41,13 @@
 
 * Départ 10:00 direction Johannesbourg
 
-| Départ    | Lieu                      |   Arrivée     | Lieu          | Vol    | Companie  | bagages               |
-| :-------: | :-----------------------: | :-----------: | :-----------: | :----: | :-------: | :-------------------: |
-| 18:00     | Johannesbourg             | 20:10         | Cape Town     | FA 113 | Flysafair | 20kg & 7kg            |
+  | Départ    | Lieu                      |   Arrivée     | Lieu          | Vol    | Companie  | bagages               |
+  | :-------: | :-----------------------: | :-----------: | :-----------: | :----: | :-------: | :-------------------: |
+  | 18:00     | Johannesbourg             | 20:10         | Cape Town     | FA 113 | Flysafair | 20kg & 7kg            |
 
-| Heure rdv    | Lieu                      | Companie  | Important                                     |
-| :----------: | :-----------------------: | :-------: | :-------------------------------------------: |
-| 20:45        | Cape Town                 | Avis      | **NE PAS MENTIONNER LES HEURES DE NOS VOLS!** |
+  | Heure rdv    | Lieu                      | Companie  | Important                                     |
+  | :----------: | :-----------------------: | :-------: | :-------------------------------------------: |
+  | 20:45        | Cape Town                 | Avis      | **NE PAS MENTIONNER LES HEURES DE NOS VOLS!** |
 
 * Direction logement 1 | 113 Victoria Road Cape Town 
 
@@ -85,16 +85,16 @@
 
 * Rendre logement vers 10:00
 
-| Départ    | Lieu                      |   Arrivée     | Lieu          | Vol    | Companie  | bagages               |
-| :-------: | :-----------------------: | :-----------: | :-----------: | :----: | :-------: | :-------------------: |
-| 17:45     | Cape Town                 | 05:30         | Frankfurt     | LH577  | Lufthansa | 23kg & 8kg (55x40x23) |
+  | Départ    | Lieu                      |   Arrivée     | Lieu          | Vol    | Companie  | bagages               |
+  | :-------: | :-----------------------: | :-----------: | :-----------: | :----: | :-------: | :-------------------: |
+  | 17:45     | Cape Town                 | 05:30         | Frankfurt     | LH577  | Lufthansa | 23kg & 8kg (55x40x23) |
 
 ## samedi 15 juillet
 
-| Départ    | Lieu                      |   Terminal    | Vol    | Companie  | bagages               |
-| :-------: | :-----------------------: | :-----------: | :----: | :-------: | :-------------------: |
-| 09:15     | Frankfurt                 | 1             | LH98   | Lufthansa | 23kg & 8kg (55x40x23) |
-| 12:10     | München                   | 2             | LH2230 | Lufthansa | 23kg & 8kg (55x40x23) |
+  | Départ    | Lieu                      |   Terminal    | Vol    | Companie  | bagages               |
+  | :-------: | :-----------------------: | :-----------: | :----: | :-------: | :-------------------: |
+  | 09:15     | Frankfurt                 | 1             | LH98   | Lufthansa | 23kg & 8kg (55x40x23) |
+  | 12:10     | München                   | 2             | LH2230 | Lufthansa | 23kg & 8kg (55x40x23) |
 
 * Arrivée 13:50 Paris Charles De Gaulle
 
