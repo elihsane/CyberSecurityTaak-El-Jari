@@ -3,8 +3,13 @@
 ## dimanche 2 juillet 
 
 * Départ 04:00 de Manage
-* Départ vol 09:35 Paris Charles De Gaulle  | Terminal 1 | Vol LH1027 Lufthansa | 23kg (**attention vol interne 20kg**) & 8kg (55x40x23 **attention vol interne 7kg**)
-* Départ vol 22:15 Frankfurt                | Terminal 1 | Vol LH576  Lufthansa | 23kg (**attention vol interne 20kg**) & 8kg (55x40x23 **attention vol interne 7kg**)
+
+| Départ    | Lieu                      |   Terminal    | Vol    | Companie  | bagages               |
+| --------- | ------------------------- | ------------- | ------ | --------- | --------------------- |
+| 09:35     | Paris Charles De Gaulle   | 1             | LH1027 | Lufthansa | 23kg & 8kg (55x40x23) |
+| 22:15     | Frankfurt                 | 1             | LH576  | Lufthansa | 23kg & 8kg (55x40x23) |
+
+**ATTENTION VOL INTERNE 20kg et 7kg**
 
 ## lundi 3 juillet
 
