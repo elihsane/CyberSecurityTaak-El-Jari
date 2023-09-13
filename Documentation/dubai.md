@@ -73,48 +73,19 @@
 
   **ATTENTION VOL INTERNE 20kg et 7kg**
 
+## jeudi 14 septembre (Journée Youssra)
 
-13 septembre :  
+  * 10:00: Réveil
+  * 10:30: Sortie de la  chambre prête pour juste le voormiddag
+  * 11:00: Déjeuner à Friends Avenue JLT
 
- 
+  **PRIX UBER 33AED ou 8EUR (aller simple)**
 
-10h00 : Arrivé aéroport 
+  * [Menu](https://www.friendsavenue.ae/gallery-introduction 'Le menu')
 
-11h25 : Départ Vol 
+* Menu -> https://www.friendsavenue.ae/gallery-introduction
 
-15h50 : Arrivée Istanbul 
-
-18h50 : Départ Dubaï 
-
-00h20 : Arrivée Dubaï InchAllah 
-
--> Demander à hôtesse de l’air ou personnel de l’aéroport de Dubaï ou on peut obtenir la fameuse carte SIM gratuite de 1GB offert à l’arrivée.  
-
--> Si jamais vous n’avez pas de 4G -> pas de panique : connectez-vous sur le wifi public de l’aéroport 
-
-=> Après ça vous commandez un uber direction Jumeirah beach (Sofitel Jumeirah Beach, 26min pour un prix de 140 AED donc 35 eur) 
-
-02h00 : Arrivée au Sofitel Jumeirah Beach, faite vôtre check-in à la réception & demander leur bien tout ce qu’il y a savoir dans l’hôtel, dans les environs, des éventuels conseil utiles, … soyez sympa avec les gens de la réception, ils peuvent éventuellement vous surclasser ou vous donner des avantages. 
-
-02h30 : Faite un petit tour de l’hôtel et puis aller nhess  
-
- 
-
-14 septembre : Journée Youssra 
-
- 
-
-10h00 : Réveil 
-
-10h30 : Sortie de la chambre prête pour juste le voormiddag 
-
-11h00 : Déjeuner à Friends Avenue JLT  
-
-Prix Uber 33 AED ou 8 eur (aller simple) 
-
-Menu -> cliquer ici 
-
-Instagram -> cliquer ici 
+Instagram -> https://www.instagram.com/friendsavenue/
 
 11h45 : Bronzer & mettre les pieds dans l’eau  
 
