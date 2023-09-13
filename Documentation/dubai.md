@@ -74,7 +74,7 @@
 
   * 10:00: Réveil
   * 10:30: Sortie de la  chambre prête pour juste le voormiddag
-  * 11:00: Déjeuner à Friends Avenue JLT
+  * 11:00: Déjeuner à Friends Avenue JLT et Installer APP reduction ALSAADA (passport number and date of entry)
 
   **PRIX UBER 33AED ou 8EUR (aller simple)**
 
@@ -94,7 +94,7 @@
 
   * 14:00: Direction Dubaï mall (Uber 79AED, 20EUR (aller simple))
 
-    * Shopping
+    * Shopping + Faite le tour du mall (**Plein de choses a voir**) Chinatown, the souk, waterfall, fashion avenue, flight simulator emirates, dubai ice rink, etc.
 
     * Aquarium (askip un peu chère pour ce que c'est)
 
@@ -159,3 +159,76 @@
   * 08:00: Réveil
 
   * 08:45: Direction Petit-déj 
+
+
+
+## samedi 16 septembre
+
+## dimanche 17 septembre
+
+## lundi 18 septembre
+
+## mardi 19 septembre
+
+## mercredi 20 septembre
+
+## jeudi 21 septembre
+
+
+
+
+Dubai Butterfly Garden, Al Barsha South 3, Dubailand Area (beside Dubai Miracle Garden) - From AED 55                NAT
+
+3. 24/7 beaches - Jumeirah 2, Jumeirah 3, Umm Suqeim 1 - free access        MAYBE
+
+5. Aya Universe, Wafi City - AED 99           MAYBE
+
+Ibn Batutta Mall Dubai Starbucks
+
+Ski Dubai (mall of the emirates)
+
+sky views glicade skyobservatory glass slide
+
+Dubai safari journee
+
+global village fin daprem
+
+aquaventure dubai                          LES DEUX BINGBANG
+
+miracle garden                      LES DEUX GIRLIE
+
+Nikki Beach
+Drift Beach
+
+E-kart Zabeel 95 AED
+
+motiongate
+
+the green planet 
+
+souk
+
+tresind dubai https://tresind.com/dubai/reservation/ resto
+
+https://www.urlarestaurant.com/
+
+https://www.tamokadubai.com/ latina gros cul grosse fesse pas loins
+https://qr.finedinemenu.com/leen-s-emirates-tower?table=sample
+
+https://menu.foodix.io/m/brunch-and-cake-the-pointe-q85kdtj0 ra tfou jumeirah
+
+https://cassette.ae/ cest mignon hipster
+
+One JLT - Jumeirah Lake Towers - Dubai - Émirats arabes unis (**QUE LES WEEKEND A VOLONTER 8-14**)
+
+https://lovevibecafe.com/pages/dubai Tombe pas love de Hassan 20min route
+
+https://www.maralounge.ae/menu/ 22min au burji
+
+
+
+
+souk medinat jumeirah
+
+boat ride a voir burji
+
