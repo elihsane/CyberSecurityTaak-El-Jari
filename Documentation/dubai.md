@@ -70,9 +70,6 @@
   * 02h30 : Faite un petit tour de l’hôtel et puis aller nhess  
 
 
-
-  **ATTENTION VOL INTERNE 20kg et 7kg**
-
 ## jeudi 14 septembre (Journée Youssra)
 
   * 10:00: Réveil
