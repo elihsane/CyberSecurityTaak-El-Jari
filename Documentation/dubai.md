@@ -147,7 +147,9 @@
 
 
   **Pourquoi ces restaurants-là me diriez-vous?** 
+
   ⟶ Très bonne question, par ce qu’elles ont tous une vue sur le spectacle de fontaine qui commence à partir de 18h et qui se produit toutes les 30 minutes. **DONC**, prenez une table avec une vue (attendez même un peu s'il le faut). 
+  
   ⟶ Je ne sais pas si c’est faisable de retenir votre faim jusqu’à 18h15, comme ça vous pouvez manger avec un coucher du soleil + spectacle de fontaine.  
 
   * 20:00: Direction Hôtel (Uber 84AED ou 21EUR) 
