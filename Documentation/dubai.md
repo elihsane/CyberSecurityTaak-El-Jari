@@ -83,46 +83,80 @@
 
   * [Menu](https://www.friendsavenue.ae/gallery-introduction 'Le menu')
 
-* Menu -> https://www.friendsavenue.ae/gallery-introduction
+  * [Instagram](https://www.instagram.com/friendsavenue/ 'Le insta du menu')
 
-Instagram -> https://www.instagram.com/friendsavenue/
+  * 11:45: Bronzer & mettre les pieds dans l'eau
 
-11h45 : Bronzer & mettre les pieds dans l’eau  
+  * Options pour la suite:
 
-Option 1 (Juifs) : Retour au bercail (Uber 33 AED ou 8 eur) puis bronzer & nager free 
+    1) Option 1 (**JUIFS**): Retour au bercail (Uber 33AED) puis bronzer & nager free
 
-Option 2 (Portapoti) : Direction West Beach (Uber 42 AED ou 11eur + prix d’un transat (askip 120 AED ou 30 eur pour un lit + food pour 2 pers.) 
+    2) Option 2 (**PORTAPUTI**): Direction West Beach (Uber 42AED ou 11EUR + prix d’un transat (askip 120AED ou 30EUR pour un lit + food pour 2 pers.))
 
-Option 3 (Portapoti mais Juive) : Direction “The Pointe - Palm Jumeirah Fountain Walk (North)”, plage gratuite et vue sur l’atlantis & bronzer et nager (Uber 49 AED ou 12 eur) 
+    3) Option 3 (**PORTAPUTI MAIS JUIF**): Direction `The Pointe - Palm Jumeirah Fountain Walk (North)`, plage gratuite et vue sur l’atlantis & bronzer et nager (Uber 49AED ou 12EUR) 
+
+  * 14:00: Direction Dubaï mall (Uber 79AED, 20EUR (aller simple))
+
+    * Shopping
+
+    * Aquarium (askip un peu chère pour ce que c'est)
+
+    * Manger sur place (voir liste ci-dessous (Natacha aime Nando))
+
+    * Visite fontaine + Burj Khalifa
+ 
+  | Resto              |
+  | :---------------:  |
+  | 99 Sushi Bar       |
+  | Abd El Wahab       |
+  | Armani/Ristorante  |
+  | Asado              |
+  | Black Tap          |
+  | Carluccio's        |
+  | Colt Equestrian    |
+  | Din Tai Fung       |
+  | Five Guys          |
+  | GIA                |
+  | Gran Caffe         |
+  | Gunaydin           |
+  | Huqqa              |
+  | Hurricane's Grill  |
+  | Joe's Cafe         |
+  | KATA               |
+  | Karam Beirut       |
+  | Karma Kafe         |
+  | La Maison Ani      |
+  | Logma              |
+  | Nando's            |
+  | Neos               |
+  | Novikov Cafe       |
+  | OFK                |
+  | OPSO               |
+  | Pizza Hut          |
+  | Social House       |
+  | Somewhere          |
+  | Thiptara           |
+  | Third Avenue Boutiq|
+  | Time Out Market    |
+  | Tribes             |
+  | Tulum              |
+  | URLA               |
+  | Vapiano            |
+  | WAFI Gourmet       |
+  | Zou Zou            |
+
+
+  **Pourquoi ces restaurants-là me diriez-vous?** 
+  ⟶ Très bonne question, par ce qu’elles ont tous une vue sur le spectacle de fontaine qui commence à partir de 18h et qui se produit toutes les 30 minutes. **DONC**, prenez une table avec une vue (attendez même un peu s'il le faut). 
+  ⟶ Je ne sais pas si c’est faisable de retenir votre faim jusqu’à 18h15, comme ça vous pouvez manger avec un coucher du soleil + spectacle de fontaine.  
+
+  * 20:00: Direction Hôtel (Uber 84AED ou 21EUR) 
+
+  * 22:00: Au lit, demain sera une dure Natacha Day 
 
  
+## vendredi 15 septembre (Journée Natacha)
 
- 
+  * 08:00: Réveil
 
-14h00 : Direction Dubaï mall (Uber 79 AED, 20 eur (aller simple)  
-
-Shopping 
-
-Aquarium (askip un peu chère pour ce que c’est) 
-
-Manger sur place (voir liste ci-dessous (Natacha aime Nando) 
-
-Visite fontaine + burj khalifa 
-
- 
-
- 
-
-Pourquoi ces restaurants-là me diriez-vous ? Très bonne question, par ce qu’elles ont tous une vue sur le spectacle de fontaine qui commence à partir de 18h et qui se produit toutes les 30 minutes. DONC, prenez une table avec une vue (attendez même un peu s'il le faut). Je ne sais pas si c’est faisable de retenir votre faim jusqu’à 18h15, comme ça vous pouvez manger avec un coucher du soleil + spectacle de fontaine.  
-
-20h00 : Direction Hôtel (Uber 84 AED où 21 eur) 
-
-22h00 : Au lit, demain sera une dure Natacha Day 
-
- 
-
-15 septembre : Natacha Day 
-
-08h00 : Réveil 
-
-08h45 : Direction Ptit déj
+  * 08:45: Direction Petit-déj 
