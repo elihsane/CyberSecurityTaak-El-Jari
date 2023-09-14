@@ -73,7 +73,9 @@
 ## jeudi 14 septembre (Journée Youssra)
 
   * 10:00: Réveil
+
   * 10:30: Sortie de la  chambre prête pour juste le voormiddag
+
   * 11:00: Déjeuner à Friends Avenue JLT et Installer APP reduction ALSAADA (passport number and date of entry)
 
   **PRIX UBER 33AED ou 8EUR (aller simple)**
@@ -160,11 +162,30 @@
 
   * 08:45: Direction Petit-déj 
 
-  miracle garden                      LES DEUX GIRLIE
-Dubai Butterfly Garden, Al Barsha South 3, Dubailand Area (beside Dubai Miracle Garden) - From AED 55                NAT
+  * 09:00: Déjeuner à Friends Avenue JLT **BIEN MANGER CA PAS DE REPAS MIDI, PETAGE DE BIDE LE SOIR**
+  
+  * 09:45: Départ vers West Beach Palm Jumeirah
 
+  * 14:00: Départ vers Miracle Garden
+
+  * 14:30: Miracle Garden + Dubai Butterfly Garden juste a coter, Al Barsha South 3, Dubailand Area (beside Dubai Miracle Garden) - From AED 55 ()
+
+  * 17:40: Départ vers global village (15-20 min de route)
+
+  * 18:00: Arrivée global village fin daprem pour une vue en journée + nuit avec lumière
 
 ## samedi 16 septembre (Journée Youssra)
+
+  * 10:00: Réveil
+
+  * 11:00: Sortie de la chambre prête pour la journée
+
+  * 11:30: Arrivée Love Vibe Dubai petit-dej
+
+  * Manger petit-dej puis direction Nikki Beach Club vous voyez l'heure vous même
+
+  * 
+
 
 ## dimanche 17 septembre (Journée Natacha)
 
@@ -180,7 +201,7 @@ Dubai Butterfly Garden, Al Barsha South 3, Dubailand Area (beside Dubai Miracle 
 -------------------------- Activité --------------------------------------------------------------------------------------------------------------
 
 
-3. 24/7 beaches - Jumeirah 2, Jumeirah 3, Umm Suqeim 1 - free access        MAYBE
+3. 24/7 beaches - Jumeirah 2, Jumeirah 3, Umm Suqeim 1 - free access        MAYBE la nuit beach
 
 5. Aya Universe, Wafi City - AED 99           MAYBE
 
@@ -192,12 +213,8 @@ sky views glicade skyobservatory glass slide
 
 Dubai safari journee
 
-global village fin daprem
-
 aquaventure dubai                          LES DEUX BINGBANG
 
-
-Nikki Beach
 Drift Beach
 
 E-kart Zabeel 95 AED
@@ -218,7 +235,7 @@ Aura skypool                           youssra
 * [Trèsind Dubai](https://tresind.com/dubai/ 'Site Trèsind')
 * [Trèsind Dubai Reservation](https://tresind.com/dubai/reservation/ 'Reservation Trèsind')
 * [Trèsind Dubai Menu](https://tresind.com/dubai/menu/ 'Menu Trèsind')
-tresind dubai https://tresind.com/dubai/reservation/                                                   ------> resto Indian modern  **RESERVATION**
+https://tresind.com/dubai/reservation/                                                                 ------> resto Indian modern  **RESERVATION**
 
 * [URLA Restaurant](https://www.urlarestaurant.com/ 'Site URLA')
 * [URLA Restaurant Menu](https://www.urlarestaurant.com/our-menus/ 'Menu URLA')
