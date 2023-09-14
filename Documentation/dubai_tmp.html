@@ -1,0 +1,723 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>dubai.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="shake-my-ass-on-a-yacht-in-dubai">Shake my ass on a yacht in Dubai</h1>
+<h2 id="pr%C3%A9paratif-avant-le-voyage-le-voyage">Préparatif avant le voyage le voyage</h2>
+<ul>
+<li>
+<p>Crème Solaire</p>
+</li>
+<li>
+<p>Gourde d’eau</p>
+</li>
+<li>
+<p>Adaptateur prise (Type G -&gt; acheter chez Adventures Louise)</p>
+</li>
+<li>
+<p>Chaussures confortables (Si jamais problèmes de pieds)</p>
+</li>
+<li>
+<p>Essuis</p>
+</li>
+<li>
+<p>Tchenkla</p>
+</li>
+<li>
+<p>Vêtements ample (abaya ch. de Gand)</p>
+</li>
+<li>
+<p>Mini Ventilo</p>
+</li>
+<li>
+<p>Passeport (prenez une photo dans votre tel.)</p>
+</li>
+<li>
+<p>Carte d’identité (Permis de conduire)</p>
+</li>
+<li>
+<p>Batterie externe (achèter un de qualité)</p>
+</li>
+<li>
+<p>Chargeur Iphone lightning + chargeur USB</p>
+</li>
+<li>
+<p>Airtag</p>
+</li>
+<li>
+<p>100 eur en liquide locale (demande à la banque)</p>
+</li>
+<li>
+<p>Min. 2 carte bancaire (+ vérifier que vos cartes marche à l’internationale)</p>
+</li>
+<li>
+<p>Sac pour transporter achats, vêtements, affaires (de préférence un sac à dos)</p>
+</li>
+<li>
+<p>Pas de liquide (plus de 100ml) dans valise de 10kg</p>
+</li>
+<li>
+<p>Immodium (produits contre le mal de ventre du au changement de temp. chaleur + airco)</p>
+</li>
+<li>
+<p>Naald pour enlèver la carte SIM</p>
+</li>
+<li>
+<p>Appli à installer</p>
+<ol>
+<li>
+<p>Google Maps,</p>
+</li>
+<li>
+<p>Uber (vérifier que la carte liée au compte fonctionne)</p>
+</li>
+<li>
+<p>Tricount</p>
+</li>
+<li>
+<p>Vôtre carte d'embarquement sur google wallet</p>
+</li>
+<li>
+<p>Convertisseur</p>
+</li>
+</ol>
+</li>
+</ul>
+<h2 id="mercredi-13-septembre">mercredi 13 septembre</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Départ</th>
+<th style="text-align:center">Lieu</th>
+<th style="text-align:center">Arrivée</th>
+<th style="text-align:center">Lieu</th>
+<th style="text-align:center">Companie</th>
+<th style="text-align:center">bagages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">11:25</td>
+<td style="text-align:center">Zaventem</td>
+<td style="text-align:center">15:50</td>
+<td style="text-align:center">Istanbul</td>
+<td style="text-align:center">Turkish Airlines</td>
+<td style="text-align:center">20kg &amp; 10kg (55x40x23)</td>
+</tr>
+<tr>
+<td style="text-align:center">18:50</td>
+<td style="text-align:center">Istanbul</td>
+<td style="text-align:center">00:20</td>
+<td style="text-align:center">Dubaï</td>
+<td style="text-align:center">Turkish Airlines</td>
+<td style="text-align:center">20kg &amp; 10kg (55x40x23)</td>
+</tr>
+</tbody>
+</table>
+<p>⟶ Demander à hôtesse de l’air ou personnel de l’aéroport de Dubaï ou on peut obtenir la fameuse carte SIM gratuite de 1GB offert à l’arrivée.</p>
+<p>⟶ Si jamais vous n’avez pas de 4G -&gt; pas de panique : connectez-vous sur le wifi public de l’aéroport</p>
+<ul>
+<li>
+<p>⟶ Après ça vous commandez un uber direction Jumeirah beach (Sofitel Jumeirah Beach, 26min pour un prix de 140 AED donc 35 eur)</p>
+</li>
+<li>
+<p>02h00 : Arrivée au Sofitel Jumeirah Beach, faite vôtre check-in à la réception &amp; demander leur bien tout ce qu’il y a savoir dans l’hôtel, dans les environs, des éventuels conseil utiles etc. Soyez sympa avec les gens de la réception, ils peuvent éventuellement vous surclasser ou vous donner des avantages.</p>
+</li>
+<li>
+<p>02h30 : Faite un petit tour de l’hôtel et puis aller nhess</p>
+</li>
+</ul>
+<h2 id="jeudi-14-septembre-journ%C3%A9e-youssra">jeudi 14 septembre (Journée Youssra)</h2>
+<ul>
+<li>10:00: Réveil</li>
+<li>10:30: Sortie de la  chambre prête pour juste le voormiddag</li>
+<li>11:00: Déjeuner à Friends Avenue JLT et Installer APP reduction ALSAADA (passport number and date of entry)</li>
+</ul>
+<p><strong>PRIX UBER 33AED ou 8EUR (aller simple)</strong></p>
+<ul>
+<li>
+<p><a href="https://www.friendsavenue.ae/gallery-introduction" title="Le menu">Menu</a></p>
+</li>
+<li>
+<p><a href="https://www.instagram.com/friendsavenue/" title="Le insta du menu">Instagram</a></p>
+</li>
+<li>
+<p>11:45: Bronzer &amp; mettre les pieds dans l'eau</p>
+</li>
+<li>
+<p>Options pour la suite:</p>
+<ol>
+<li>
+<p>Option 1 (<strong>JUIFS</strong>): Retour au bercail (Uber 33AED) puis bronzer &amp; nager free</p>
+</li>
+<li>
+<p>Option 2 (<strong>PORTAPUTI</strong>): Direction West Beach (Uber 42AED ou 11EUR + prix d’un transat (askip 120AED ou 30EUR pour un lit + food pour 2 pers.))</p>
+</li>
+<li>
+<p>Option 3 (<strong>PORTAPUTI MAIS JUIF</strong>): Direction <code>The Pointe - Palm Jumeirah Fountain Walk (North)</code>, plage gratuite et vue sur l’atlantis &amp; bronzer et nager (Uber 49AED ou 12EUR)</p>
+</li>
+</ol>
+</li>
+<li>
+<p>14:00: Direction Dubaï mall (Uber 79AED, 20EUR (aller simple))</p>
+<ul>
+<li>
+<p>Shopping + Faite le tour du mall (<strong>Plein de choses a voir</strong>) Chinatown, the souk, waterfall, fashion avenue, flight simulator emirates, dubai ice rink, etc.</p>
+</li>
+<li>
+<p>Aquarium (askip un peu chère pour ce que c'est)</p>
+</li>
+<li>
+<p>Manger sur place (voir liste ci-dessous (Natacha aime Nando))</p>
+</li>
+<li>
+<p>Visite fontaine + Burj Khalifa</p>
+</li>
+</ul>
+</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Resto</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">99 Sushi Bar</td>
+</tr>
+<tr>
+<td style="text-align:center">Abd El Wahab</td>
+</tr>
+<tr>
+<td style="text-align:center">Armani/Ristorante</td>
+</tr>
+<tr>
+<td style="text-align:center">Asado</td>
+</tr>
+<tr>
+<td style="text-align:center">Black Tap</td>
+</tr>
+<tr>
+<td style="text-align:center">Carluccio's</td>
+</tr>
+<tr>
+<td style="text-align:center">Colt Equestrian</td>
+</tr>
+<tr>
+<td style="text-align:center">Din Tai Fung</td>
+</tr>
+<tr>
+<td style="text-align:center">Five Guys</td>
+</tr>
+<tr>
+<td style="text-align:center">GIA</td>
+</tr>
+<tr>
+<td style="text-align:center">Gran Caffe</td>
+</tr>
+<tr>
+<td style="text-align:center">Gunaydin</td>
+</tr>
+<tr>
+<td style="text-align:center">Huqqa</td>
+</tr>
+<tr>
+<td style="text-align:center">Hurricane's Grill</td>
+</tr>
+<tr>
+<td style="text-align:center">Joe's Cafe</td>
+</tr>
+<tr>
+<td style="text-align:center">KATA</td>
+</tr>
+<tr>
+<td style="text-align:center">Karam Beirut</td>
+</tr>
+<tr>
+<td style="text-align:center">Karma Kafe</td>
+</tr>
+<tr>
+<td style="text-align:center">La Maison Ani</td>
+</tr>
+<tr>
+<td style="text-align:center">Logma</td>
+</tr>
+<tr>
+<td style="text-align:center">Nando's</td>
+</tr>
+<tr>
+<td style="text-align:center">Neos</td>
+</tr>
+<tr>
+<td style="text-align:center">Novikov Cafe</td>
+</tr>
+<tr>
+<td style="text-align:center">OFK</td>
+</tr>
+<tr>
+<td style="text-align:center">OPSO</td>
+</tr>
+<tr>
+<td style="text-align:center">Pizza Hut</td>
+</tr>
+<tr>
+<td style="text-align:center">Social House</td>
+</tr>
+<tr>
+<td style="text-align:center">Somewhere</td>
+</tr>
+<tr>
+<td style="text-align:center">Thiptara</td>
+</tr>
+<tr>
+<td style="text-align:center">Third Avenue Boutiq</td>
+</tr>
+<tr>
+<td style="text-align:center">Time Out Market</td>
+</tr>
+<tr>
+<td style="text-align:center">Tribes</td>
+</tr>
+<tr>
+<td style="text-align:center">Tulum</td>
+</tr>
+<tr>
+<td style="text-align:center">URLA</td>
+</tr>
+<tr>
+<td style="text-align:center">Vapiano</td>
+</tr>
+<tr>
+<td style="text-align:center">WAFI Gourmet</td>
+</tr>
+<tr>
+<td style="text-align:center">Zou Zou</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Pourquoi ces restaurants-là me diriez-vous?</strong></p>
+<p>⟶ Très bonne question, par ce qu’elles ont tous une vue sur le spectacle de fontaine qui commence à partir de 18h et qui se produit toutes les 30 minutes. <strong>DONC</strong>, prenez une table avec une vue (attendez même un peu s'il le faut).</p>
+<p>⟶ Je ne sais pas si c’est faisable de retenir votre faim jusqu’à 18h15, comme ça vous pouvez manger avec un coucher du soleil + spectacle de fontaine.</p>
+<ul>
+<li>
+<p>20:00: Direction Hôtel (Uber 84AED ou 21EUR)</p>
+</li>
+<li>
+<p>22:00: Au lit, demain sera une dure Natacha Day</p>
+</li>
+</ul>
+<h2 id="vendredi-15-septembre-journ%C3%A9e-natacha">vendredi 15 septembre (Journée Natacha)</h2>
+<ul>
+<li>
+<p>08:00: Réveil</p>
+</li>
+<li>
+<p>08:45: Direction Petit-déj</p>
+</li>
+</ul>
+<h2 id="samedi-16-septembre">samedi 16 septembre</h2>
+<h2 id="dimanche-17-septembre">dimanche 17 septembre</h2>
+<h2 id="lundi-18-septembre">lundi 18 septembre</h2>
+<h2 id="mardi-19-septembre">mardi 19 septembre</h2>
+<h2 id="mercredi-20-septembre">mercredi 20 septembre</h2>
+<h2 id="jeudi-21-septembre">jeudi 21 septembre</h2>
+<p>Dubai Butterfly Garden, Al Barsha South 3, Dubailand Area (beside Dubai Miracle Garden) - From AED 55                NAT</p>
+<ol start="3">
+<li>
+<p>24/7 beaches - Jumeirah 2, Jumeirah 3, Umm Suqeim 1 - free access        MAYBE</p>
+</li>
+<li>
+<p>Aya Universe, Wafi City - AED 99           MAYBE</p>
+</li>
+</ol>
+<p>Ibn Batutta Mall Dubai Starbucks</p>
+<p>Ski Dubai (mall of the emirates)</p>
+<p>sky views glicade skyobservatory glass slide</p>
+<p>Dubai safari journee</p>
+<p>global village fin daprem</p>
+<p>aquaventure dubai                          LES DEUX BINGBANG</p>
+<p>miracle garden                      LES DEUX GIRLIE</p>
+<p>Nikki Beach
+Drift Beach</p>
+<p>E-kart Zabeel 95 AED</p>
+<p>motiongate</p>
+<p>the green planet</p>
+<p>souk</p>
+<p>tresind dubai https://tresind.com/dubai/reservation/ resto</p>
+<p>https://www.urlarestaurant.com/</p>
+<p>https://www.tamokadubai.com/ latina gros cul grosse fesse pas loins
+https://qr.finedinemenu.com/leen-s-emirates-tower?table=sample</p>
+<p>https://menu.foodix.io/m/brunch-and-cake-the-pointe-q85kdtj0 ra tfou jumeirah</p>
+<p>https://cassette.ae/ cest mignon hipster</p>
+<p>One JLT - Jumeirah Lake Towers - Dubai - Émirats arabes unis (<strong>QUE LES WEEKEND A VOLONTER 8-14</strong>)</p>
+<p>https://lovevibecafe.com/pages/dubai Tombe pas love de Hassan 20min route</p>
+<p>https://www.maralounge.ae/menu/ 22min au burji</p>
+<p>souk medinat jumeirah</p>
+<p>boat ride a voir burji</p>
+
+</body>
+</html>
