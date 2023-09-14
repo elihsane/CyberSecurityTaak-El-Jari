@@ -160,24 +160,25 @@
 
   * 08:45: Direction Petit-déj 
 
+  miracle garden                      LES DEUX GIRLIE
+Dubai Butterfly Garden, Al Barsha South 3, Dubailand Area (beside Dubai Miracle Garden) - From AED 55                NAT
 
 
-## samedi 16 septembre
+## samedi 16 septembre (Journée Youssra)
 
-## dimanche 17 septembre
+## dimanche 17 septembre (Journée Natacha)
 
-## lundi 18 septembre
+## lundi 18 septembre (Journée Youssra)
 
-## mardi 19 septembre
+## mardi 19 septembre (Journée Natacha)
 
-## mercredi 20 septembre
+## mercredi 20 septembre (Journée Youssra)
 
 ## jeudi 21 septembre
 
 
+-------------------------- Activité --------------------------------------------------------------------------------------------------------------
 
-
-Dubai Butterfly Garden, Al Barsha South 3, Dubailand Area (beside Dubai Miracle Garden) - From AED 55                NAT
 
 3. 24/7 beaches - Jumeirah 2, Jumeirah 3, Umm Suqeim 1 - free access        MAYBE
 
@@ -195,7 +196,6 @@ global village fin daprem
 
 aquaventure dubai                          LES DEUX BINGBANG
 
-miracle garden                      LES DEUX GIRLIE
 
 Nikki Beach
 Drift Beach
@@ -208,27 +208,46 @@ the green planet
 
 souk
 
-tresind dubai https://tresind.com/dubai/reservation/ resto
-
-https://www.urlarestaurant.com/
-
-https://www.tamokadubai.com/ latina gros cul grosse fesse pas loins
-https://qr.finedinemenu.com/leen-s-emirates-tower?table=sample
-
-https://menu.foodix.io/m/brunch-and-cake-the-pointe-q85kdtj0 ra tfou jumeirah
-
-https://cassette.ae/ cest mignon hipster
-
-One JLT - Jumeirah Lake Towers - Dubai - Émirats arabes unis (**QUE LES WEEKEND A VOLONTER 8-14**)
-
-https://lovevibecafe.com/pages/dubai Tombe pas love de Hassan 20min route
-
-https://www.maralounge.ae/menu/ 22min au burji
-
-
-
-
 souk medinat jumeirah
 
 boat ride a voir burji
 
+Aura skypool                           youssra
+---------------------- Restau --------------------------------------------------------------------------------------------------------
+
+* [Trèsind Dubai](https://tresind.com/dubai/ 'Site Trèsind')
+* [Trèsind Dubai Reservation](https://tresind.com/dubai/reservation/ 'Reservation Trèsind')
+* [Trèsind Dubai Menu](https://tresind.com/dubai/menu/ 'Menu Trèsind')
+tresind dubai https://tresind.com/dubai/reservation/                                                   ------> resto Indian modern  **RESERVATION**
+
+* [URLA Restaurant](https://www.urlarestaurant.com/ 'Site URLA')
+* [URLA Restaurant Menu](https://www.urlarestaurant.com/our-menus/ 'Menu URLA')
+https://www.urlarestaurant.com/                                                                        ------> resto Seafood  **RESERVATION** (par mail sur le site)
+
+* [Tamoka Dubai](https://www.tamokadubai.com/ 'Site Tamoka')
+* [Tamoka Dubai Menu](https://www.tamokadubai.com/dubai-restaurants-menu 'Menu Tamoka')
+https://www.tamokadubai.com/                                                                           ------> resto latina pas loins **RESERVATION** (plugin sur le site)
+
+* [Leen's](https://www.leens.com/ 'Site Leen s')
+* [Leen's Reservation](https://www.leens.com/reservations 'Site reservation Leen s')
+* [Leen's Emirates Tower Menu](https://qr.finedinemenu.com/leen-s-emirates-tower?table=sample 'Menu Leen s')
+https://qr.finedinemenu.com/leen-s-emirates-tower?table=sample                                         ------> petit dej museum of future **RESERVATION**
+
+* [Brunch & Cake](https://brunchandcake.com/brunch-and-cake-dubai-jumeirah-islands.php 'Site B&C')
+* [Brunch & Cake Menu](https://menu.foodix.io/m/brunch-and-cake-the-pointe-q85kdtj0 'Menu B&C')
+https://menu.foodix.io/m/brunch-and-cake-the-pointe-q85kdtj0                                           ------> petit dej jumeirah
+
+* [CASSETTE](https://cassette.ae/ 'Site Cassette')
+* [CASSETTE Menu](https://cassette.ae/menu/ 'Menu Cassette')
+https://cassette.ae/                                                                                   ------> petit dej Modern parisian bistro
+
+
+One JLT - Jumeirah Lake Towers - Dubai - Émirats arabes unis (**QUE LES WEEKEND A VOLONTER 8-14**)
+
+* [Love Vibe Dubai](https://lovevibecafe.com/pages/dubai 'Site Love Vibe')
+* [Love Vibe Dubai Menu](https://qr.emenu.ae/o8bnpd7na5/#/ 'Menu Love Vibe Dubai')
+https://lovevibecafe.com/pages/dubai                                                                   ------> petit dej EX 153 - Gate Avenue, Level Pod - Dubai (20min route)
+
+* [Mara Lounge](https://www.maralounge.ae/ 'Site Mara Lounge')
+* [Mara Lounge Menu](https://www.maralounge.ae/menu/ 'Menu Mara Lounge')
+https://www.maralounge.ae/menu/                                                                        ------> petit dej 22min au burji
